@@ -32,25 +32,25 @@ Polygons are primitive objects which are the basic 3D building blocks that can b
 ### Deformers
 Deformers allow you to manipulate existing geometry. Some types of deformers I used were: Bends, Tapers, Displacers, and Flags.
 
-##Bend Tool
+# Bend Tool
 ![Bend](/app-demo/Bending.gif)
 
-##Taper Tool
+# Taper Tool
 ![Taper](/app-demo/Taper.gif)
 
-##Displacer Tool
+# Displacer Tool
 ![Displacer](/app-demo/Displacer.gif)
 
-##Flag Tool
+# Flag Tool
 ![Flag](/app-demo/Flag.gif)
 
 ### Placement Tools
 Just like the name states, the placement tool allows you to place objects on surfaces of other objects. A unique placement tool, the Dynamic Placement Tool adheres to the laws of Physics to create a more realistic project.
 
-##Placement Tool
+# Placement Tool
 ![Polygons](/app-demo/Placement.gif)
 
-##Dynamic Placement Tool
+# Dynamic Placement Tool
 ![Polygons](/app-demo/Dynamic-Placement.gif)
 
 ### Next Steps
