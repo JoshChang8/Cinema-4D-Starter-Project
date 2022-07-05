@@ -9,7 +9,7 @@ Here is what I have completed so far.
 ### Navigating the Workspace
 Starting out, the Cinema 4D application can be very overwhelming. With an abundance of tools and controls, it can be very hard to start; especially if you’re not familiar with working in 3D space. Functionalities and features that are coloured blue generate original objects and data from scratch, features coloured purple distort existing geometry or data, and features coloured green generate objects and data based on previous objects and data.
 
-![Features](/app-demo/features.gif)
+![Features](/app-demo/Features.gif)
 
 
 
