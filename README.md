@@ -4,7 +4,7 @@ Cinema 4D is a computer animation, modelling, simulation, and rendering software
 ### My Progress so Far
 Here is what I have completed so far. 
 
-![360 View](/app-demo/360 view w fishbowl.gif)
+![360 View](/app-demo/360-view-w-fishbowl.gif)
 
 ### Navigating the Workspace
 Starting out, the Cinema 4D application can be very overwhelming. With an abundance of tools and controls, it can be very hard to start; especially if you’re not familiar with working in 3D space. Functionalities and features that are coloured blue generate original objects and data from scratch, features coloured purple distort existing geometry or data, and features coloured green generate objects and data based on previous objects and data.
@@ -12,17 +12,17 @@ Starting out, the Cinema 4D application can be very overwhelming. With an abunda
 ![Features](/app-demo/Features.gif)
 
 First off, you should know these keys by heart: 1, 2, 3, E, T, R, and your Perspective views.
-- 1 - Move perspective
-- 2 - Scale perspective
-- 3 - Rotate perspective
-- E - Move tool
-- T - Scale tool
-- R - Rotate tool
-- F1 - Perspective View
-- F2 - Top perspective
-- F3 - Right perspective
-- F4 - Front perspective
-- F5 - All views
+- 1: Move perspective
+- 2: Scale perspective
+- 3: Rotate perspective
+- E: Move tool
+- T: Scale tool
+- R: Rotate tool
+- F1: Perspective View
+- F2: Top perspective
+- F3: Right perspective
+- F4: Front perspective
+- F5: All views
 
 ### Polygons
 Polygons are primitive objects which are the basic 3D building blocks that can be manipulated to create your desired shapes and features. Some polygons that I used throughout this project: Cylinder, Sphere, Torus, Capsule, etc.
