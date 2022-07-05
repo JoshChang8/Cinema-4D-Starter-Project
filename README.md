@@ -51,7 +51,7 @@ Just like the name states, the placement tool allows you to place objects on sur
 ![Polygons](/app-demo/Placement.gif)
 
 ### Dynamic Placement Tool
-![Polygons](/app-demo/Dynamic-Placement.gif)
+![Polygons](/app-demo/Dyanamic-Placement.gif)
 
 ## Next Steps
 There are still many features that I have yet to explore and I have not yet finished the Introduction to Cinema 4D Cineversity course. There are endless features provided in Cinema 4D and I would love to learn more about Cinema 4D to continue to create new designs and videos!
